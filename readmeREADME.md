@@ -1,7 +1,7 @@
 # ToDo List
 
 <h1 align="center">
-    <img alt="Login" title="Login" src=".github/capa.png" />
+    <img alt="Capa" title="Capa" src=".github/Capa.png" />
 </h1>
 
 ## 🧪 Technologies
